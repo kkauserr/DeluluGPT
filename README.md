@@ -28,7 +28,7 @@ Python 3.12+
 
 Streamlit
 
-OpenAI API (GPT-4o)
+OpenAI API
 
 HTML/CSS for styling and animations
 
